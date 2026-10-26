@@ -2,4 +2,4 @@
 - Projeto 1: Sistema de Gestao
 
 ## Minhas Habilidades
-- C++, Git, HTML/CSS
+- C, C++, Git, HTML/CSS, PHP, SQL, Java, JavaScript
