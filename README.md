@@ -1,3 +1,2 @@
-Portfólio
-Atividade 2 do minicurso
-erro
+## Minhas Habilidades
+- C, C++, Java, Git, SQL, HTML/CSS
